@@ -1,0 +1,6 @@
+d:\usuarios\samsung\documents\visual studio 2013\Projects\blog_tarea_ccalero\blog_tarea_ccalero\bin\Debug\blog_tarea_ccalero.exe.config
+d:\usuarios\samsung\documents\visual studio 2013\Projects\blog_tarea_ccalero\blog_tarea_ccalero\bin\Debug\blog_tarea_ccalero.exe
+d:\usuarios\samsung\documents\visual studio 2013\Projects\blog_tarea_ccalero\blog_tarea_ccalero\bin\Debug\blog_tarea_ccalero.pdb
+d:\usuarios\samsung\documents\visual studio 2013\Projects\blog_tarea_ccalero\blog_tarea_ccalero\obj\Debug\blog_tarea_ccalero.csprojResolveAssemblyReference.cache
+d:\usuarios\samsung\documents\visual studio 2013\Projects\blog_tarea_ccalero\blog_tarea_ccalero\obj\Debug\blog_tarea_ccalero.exe
+d:\usuarios\samsung\documents\visual studio 2013\Projects\blog_tarea_ccalero\blog_tarea_ccalero\obj\Debug\blog_tarea_ccalero.pdb
